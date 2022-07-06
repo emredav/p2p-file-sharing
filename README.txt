@@ -4,7 +4,7 @@
 ██║     ██║╚██╔╝██║██╔═══╝ ╚════╝██╔═══╝ ██╔═══╝ ████╔╝██║╚════██║
 ╚██████╗██║ ╚═╝ ██║██║           ███████╗███████╗╚██████╔╝     ██║
  ╚═════╝╚═╝     ╚═╝╚═╝           ╚══════╝╚══════╝ ╚═════╝      ╚═╝
-
+Murat Kaya- Emre Daver - Yiğit Canpolat
 
 If you want to test the project run the .py files in this order:
 
